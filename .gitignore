@@ -1,0 +1,7 @@
+.idea
+*.pyc
+checkpoints_tune/
+checkpoints/
+checkpoints_moco/
+pretrain_weights/
+
